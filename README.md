@@ -25,27 +25,28 @@ i_like:
     adventure: 
         if_i_do: empty_pocket ⛔
 🔭what_i_do: Backend_Developer
-tools_i_use_and_learning 🧰: [Git, Github, Gitlab, AWS]
+tools_i_use_and_learning 🧰: [Github, Gitlab, AWS]
 frameworks:
     backend:
-        🟢spring:
+       🥇 spring:
             pro_language: Kotlin
-        🟡flask:
+       🥉 flask:
             pro_language: Python   
             in_my_memory: no
-        🟠laravel:
+       🥉 laravel:
             pro_language: PHP  
             in_my_memory: lazy_load
     frontend:
-        vue: 
-            pro_language: JavaScript
-            in_my_memory: no
-        react:
-            pro_language: [JavaScript, TypeScript]
-            learning: yes  
-life:
-    struggling: yes
-    
+       🥈 js:
+            react:
+                pro_language: [JavaScript, TypeScript]
+                learning: yes  
+            vue: 
+                pro_language: JavaScript
+                in_my_memory: no
+       🥇 css:
+            tailwind
+            chakra_ui
 ```
 
 ### _But Why?_
