@@ -3,9 +3,10 @@
   <image src="https://avatars.githubusercontent.com/u/63505541?s=40&v=4" width="10%" />
     <h3>Hi there 👋</h3>
   </a>
-</div>
+  
+  ![SnakeAnimation](https://github.com/ChanthaVeourn/private-test-repo/blob/output/github-contribution-grid-snake.svg)
 
-![SnakeAnimation](https://github.com/ChanthaVeourn/private-test-repo/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 # About Me
 ```yml
@@ -44,9 +45,7 @@ frameworks:
             vue: 
                 pro_language: JavaScript
                 in_my_memory: no
-       🥇 css:
-            tailwind
-            chakra_ui
+       🥇 css: [tailwind, chakra_ui]
 ```
 
 ### _But Why?_
