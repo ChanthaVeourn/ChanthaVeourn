@@ -3,9 +3,6 @@
   <image src="https://avatars.githubusercontent.com/u/63505541?s=40&v=4" width="10%" />
     <h3>Hi there 👋</h3>
   </a>
-  
-  ![SnakeAnimation](https://github.com/ChanthaVeourn/private-test-repo/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 # About Me
