@@ -19,30 +19,34 @@ i_like:
         toy: [animal, vehicle, tree]
         miniature_building: [country_side]
     game_dev_design:
-        if_i_do: empty_pocket 💳
+        when_i_do: empty_pocket 💳
     adventure: 
-        if_i_do: empty_pocket ⛔
+        when_i_do: empty_pocket ⛔
 🔭what_i_do: Backend_Developer
-tools_i_use_and_learning 🧰: [Github, Gitlab, AWS]
+tools_i_use_and_learning 🧰: [
+    Git: [Github, Gitlab],
+    AWS: [S3, EC2],
+    GameDEV: [Unity, Blender],
+    IDE: [front-end: Vs_Code, back-end: InteliJ, game-dev: Vs_Studio_Code]
+]
 frameworks:
     backend:
-       🥇 spring:
+       🥇 spring-boot:
             pro_language: Kotlin
-       🥉 flask:
-            pro_language: Python   
-            in_my_memory: no
-       🥉 laravel:
-            pro_language: PHP  
-            in_my_memory: lazy_load
     frontend:
        🥈 js:
             react:
                 pro_language: [JavaScript, TypeScript]
-                learning: yes  
+                learning: true  
             vue: 
-                pro_language: JavaScript
-                in_my_memory: no
-       🥇 css: [tailwind, chakra_ui]
+                pro_language: [JavaScript, TypeScript]
+                will_learn: true
+       🥇 css: [tailwind, vanilla]
+free_activities👨‍💻:
+    game_dev: Unity, C#
+    play_musical_instrument: ([guitar, piano]) => jes ta lg lg tv
+    dek: dek
+    dek: lg
 ```
 
 ### _But Why?_
